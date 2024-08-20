@@ -7,7 +7,7 @@ with st.container():
     st.subheader("Meu primeiro site com o Streamlit")
     st.title("Dashboard de Contratos")
     st.write("Informações sobre os contratos fechados pela Hash&Co ao longo de maio")
-    st.write("Quer aprender Python? [Clique aqui](https://www.hashtagtreinamentos.com/curso-python)")
+    st.write("Quer aprender Python? [Clique aqui](https://www.youtube.com/watch?feature=shared&v=3dDLnFnoilM)")
 
 
 @st.cache_data
